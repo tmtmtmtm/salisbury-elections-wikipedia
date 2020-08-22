@@ -10,6 +10,9 @@
   "new_person_description": "UK election candidate",
   "mapping": {
     "election": {
+      "By-election, 27 Jan 1897": "Q98555847",
+      "By-election, 21 Nov 1882": "Q98555848",
+      "By-election, 15 November 1853": "Q98555849"
     },
     "party" : {
     }
