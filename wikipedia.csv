@@ -122,8 +122,8 @@ Q5345573,Edward Tennant,Q622441,Liberal Party (UK),1646,Q3076606,General electio
 Q7529396,Walter Palmer,Q9626,Conservative Party (UK),1605,Q3076606,General election 1906,2
 Q7529396,Walter Palmer,Q9626,Conservative Party (UK),1399,Q918358,General election 1900,1
 Q5498303,Frederick Low,Q622441,Liberal Party (UK),1160,Q918358,General election 1900,2
-Q4821444,Augustus Allhusen,Q9626,Conservative Party (UK),1425,,"By-election, 27 Jan 1897",1
-Q7527785,John Fuller,Q622441,Liberal Party (UK),1278,,"By-election, 27 Jan 1897",2
+Q4821444,Augustus Allhusen,Q9626,Conservative Party (UK),1425,Q98555847,"By-election, 27 Jan 1897",1
+Q7527785,John Fuller,Q622441,Liberal Party (UK),1278,Q98555847,"By-election, 27 Jan 1897",2
 Q7526570,Edward Hulse,Q9626,Conservative Party (UK),1404,Q7888019,General election 1895,1
 ,William Richmond Brown,Q622441,Liberal Party (UK),1187,Q7888019,General election 1895,2
 Q7526570,Edward Hulse,Q9626,Conservative Party (UK),1374,Q7888018,General election 1892,1
@@ -132,8 +132,8 @@ Q7526570,Edward Hulse,Q9626,Conservative Party (UK),1259,Q7888016,General electi
 Q333887,William Grenfell,Q622441,Liberal Party (UK),910,Q7888016,General election 1886,2
 Q333887,William Grenfell,Q622441,Liberal Party (UK),1144,Q3397257,General election 1885,1
 Q26756847,Coleridge Kennard,Q9626,Conservative Party (UK),1104,Q3397257,General election 1885,2
-Q26756847,Coleridge Kennard,Q9626,Conservative Party (UK),955,,"By-election, 21 Nov 1882",1
-Q333887,William Grenfell,Q622441,Liberal Party (UK),852,,"By-election, 21 Nov 1882",2
+Q26756847,Coleridge Kennard,Q9626,Conservative Party (UK),955,Q98555848,"By-election, 21 Nov 1882",1
+Q333887,William Grenfell,Q622441,Liberal Party (UK),852,Q98555848,"By-election, 21 Nov 1882",2
 Q333887,William Grenfell,Q622441,Liberal Party (UK),961,Q2074515,General election 1880,1
 Q6252021,John Passmore Edwards,Q622441,Liberal Party (UK),958,Q2074515,General election 1880,2
 Q26756847,Coleridge Kennard,Q9626,Conservative Party (UK),841,Q2074515,General election 1880,3
@@ -154,8 +154,8 @@ Q2659147,John Chapman,Q9626,Conservative Party (UK),252,Q2074533,General electio
 Q26260973,Edward Pery Buckley,Q622441,Liberal Party (UK),370,Q4345445,General election 1859,1
 Q20645877,Matthew Henry Marsh,Q622441,Liberal Party (UK),326,Q4345445,General election 1859,2
 Q2659147,John Chapman,Q9626,Conservative Party (UK),262,Q4345445,General election 1859,3
-Q26260973,Edward Pery Buckley,Q108700,Whigs (British political party),255,,"By-election, 15 November 1853",1
-,Julius Roberts,Q9626,Conservative Party (UK),88,,"By-election, 15 November 1853",2
+Q26260973,Edward Pery Buckley,Q108700,Whigs (British political party),255,Q98555849,"By-election, 15 November 1853",1
+,Julius Roberts,Q9626,Conservative Party (UK),88,Q98555849,"By-election, 15 November 1853",2
 Q18531095,William Chaplin,Q108700,Whigs (British political party),381,Q3943728,General election 1852,1
 Q21165490,Charles Baring Wall,Q2633397,Peelite,331,Q3943728,General election 1852,2
 ,Frederick William Slade,Q9626,Conservative Party (UK),173,Q3943728,General election 1852,3
